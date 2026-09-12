@@ -6,6 +6,8 @@ The labs focus on implementing and practicing networking concepts through real c
 
 ## Labs
 
+* DHCP Pool Configration
+* Static Routing
 * Routing Protocols (EIGRP,OSPF,RIPv2)
 * VLANs
 * Inter-VLAN Routing
